@@ -6,12 +6,9 @@
         <groupId>io.github.klxair</groupId>
         <artifactId>artjsjtools-spring-boot</artifactId>
         <version>1.0.0</version>
-        <relativePath/>
     </parent>
     <artifactId>artjsjtools-spring-boot-autoconfigure</artifactId>
-    <version>1.0.0</version>
     <name>artjsjtools-spring-boot-autoconfigure</name>
-    <description>artjsjtools-spring-boot-autoconfigure</description>
 
     <properties>
         <java.version>1.8</java.version>
